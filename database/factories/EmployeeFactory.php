@@ -23,7 +23,7 @@ class EmployeeFactory extends Factory
     {
         return [
             'OfficeCode'=> $this->faker->randomNumber(5),
-            'reportsTo'=> $this->faker->randomNumber(5),
+            'reportsTo'=> $this->faker->randomNumber(4),
             'LastName'=>$this->faker->word(),
             'FirstName'=>$this->faker->word(),
             'Extension'=>$this->faker->sentence(),

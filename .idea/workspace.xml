@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfebe9d6-9d36-4558-8dd6-030479f92338" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/EmployeeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/EmployeeFactory.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Compressed/FinalAss/AddC.php" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/DB/test.php" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -168,7 +168,7 @@
       <workItem from="1603383069411" duration="3000" />
       <workItem from="1603614424444" duration="1121000" />
       <workItem from="1603731107255" duration="133000" />
-      <workItem from="1603731273294" duration="71000" />
+      <workItem from="1603731273294" duration="991000" />
     </task>
     <servers />
   </component>
@@ -176,10 +176,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1603615877449">
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1603732449545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603615877449" />
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603732449545" />
     <state x="518" y="295" key="NewPhpFileDialog" timestamp="1603615810888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
